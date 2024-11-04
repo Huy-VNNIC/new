@@ -1,3 +1,4 @@
+```cpp
 #include <iostream>
 #include <vector>
 #include <climits>
@@ -34,3 +35,4 @@ int main() {
     max(a);  
     return 0;
 }
+```
